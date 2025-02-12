@@ -4,7 +4,7 @@ import math
 
 class Bomb(GameObject):
     def __init__(self, x, y):
-        super().__init__("source/bomb.png", x, y, speed=3, scales = (36, 13))
+        super().__init__("source/bomb.png", x, y, speed=1, scales = (36, 13))
     
     def update(self, target):
         if not self.exploding:

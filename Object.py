@@ -38,7 +38,6 @@ class GameObject:
                 explosion_image = pygame.transform.scale(explosion_images[self.explosion_frame], (100, 100))
                 surface.blit(explosion_image, (self.x - camera_x - 25, self.y - camera_y - 25))
                 self.explosion_frame = self.explosion_frame + 1
-                print(self.explosion_frame, len(explosion_images))
             else:
                 self.alive = False
         elif self.alive:
