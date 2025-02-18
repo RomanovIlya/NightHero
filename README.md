@@ -3,7 +3,8 @@
 
 1. Управление
 2. Использованные изображения 
-3. Планы на будущие
+3. Что нового?
+4. Планы на будущие
 
 
 # Управление
@@ -24,7 +25,10 @@
 ![explosion2](https://github.com/user-attachments/assets/a5feaf64-2d74-46ab-992a-a1ee65137601)
 ![explosion1](https://github.com/user-attachments/assets/86deeb11-79b7-4ac4-8cf0-217c3b4f9c3c)
 
+# Что нового?
+1. Добавлен файл с настройками `configure/setting.yaml`
+2. Сделано главное меню
+
 # Планы на будущие
-1. Добавить главное меню
-2. Сделать таблицу рекордов через web
-3. Сделать версию для android и ios(https://github.com/RomanovIlya/NightWalker_IT_School.git)
+1. Сделать сохранение рекордов 
+2. Добавить музыку
